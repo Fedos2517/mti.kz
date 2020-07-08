@@ -1177,7 +1177,7 @@ h3 {
 .top-projects_card-image {
   width: 100%;
   height: 290px;
-  /*background-image: url('../images/item_image.png');*/
+  background-image: url('../images/item_image.png');
   padding-top: 16px;
   padding-right: 16px;
   background-position: center;
