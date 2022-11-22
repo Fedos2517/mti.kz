@@ -17,7 +17,7 @@
     "cookie-universal-nuxt": "^2.1.4",
     "http-server": "^0.12.3",
     "jquery": "^3.5.1",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "v-mask": "^2.2.1",
     "v-owl-carousel": "^1.0.8",
     "vue-flip": "^1.0.0",
